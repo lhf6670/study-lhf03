@@ -53,7 +53,7 @@ type
   end;
 
 var
-  Form2: TForm2;//gjkldshgklds lhflhflhf
+  Form2: TForm2;//gjkldshgklds lhflhflhf llllllllll
 
 implementation
 
